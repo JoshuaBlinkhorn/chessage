@@ -1,0 +1,13 @@
+/Users/joshuablinkhorn/Repos/chessage/build/CMakeFiles/edit_cache.dir
+/Users/joshuablinkhorn/Repos/chessage/build/CMakeFiles/rebuild_cache.dir
+/Users/joshuablinkhorn/Repos/chessage/build/src/CMakeFiles/chessage.dir
+/Users/joshuablinkhorn/Repos/chessage/build/src/CMakeFiles/edit_cache.dir
+/Users/joshuablinkhorn/Repos/chessage/build/src/CMakeFiles/rebuild_cache.dir
+/Users/joshuablinkhorn/Repos/chessage/build/src/legalmoves/CMakeFiles/legalmoves.dir
+/Users/joshuablinkhorn/Repos/chessage/build/src/legalmoves/CMakeFiles/edit_cache.dir
+/Users/joshuablinkhorn/Repos/chessage/build/src/legalmoves/CMakeFiles/rebuild_cache.dir
+/Users/joshuablinkhorn/Repos/chessage/build/tests/CMakeFiles/edit_cache.dir
+/Users/joshuablinkhorn/Repos/chessage/build/tests/CMakeFiles/rebuild_cache.dir
+/Users/joshuablinkhorn/Repos/chessage/build/tests/legalmoves_tests/CMakeFiles/legalmoves_tests.dir
+/Users/joshuablinkhorn/Repos/chessage/build/tests/legalmoves_tests/CMakeFiles/edit_cache.dir
+/Users/joshuablinkhorn/Repos/chessage/build/tests/legalmoves_tests/CMakeFiles/rebuild_cache.dir

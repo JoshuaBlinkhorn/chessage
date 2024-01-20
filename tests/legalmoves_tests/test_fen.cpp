@@ -98,10 +98,3 @@ INSTANTIATE_TEST_SUITE_P(
     "k7/8/8/8/8/8/8/7K w - - 0 1",                // naked kings
     "rnbqkbnr/8/8/8/8/8/8/RNBQKBNR w KQkq - 0 1"  // starting position
   ));
-
-int main(int argc, char **argv) {
-  ::testing::InitGoogleTest(&argc, argv);
-  return RUN_ALL_TESTS();
-}
-
-

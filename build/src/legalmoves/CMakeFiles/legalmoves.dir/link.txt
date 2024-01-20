@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc liblegalmoves.a CMakeFiles/legalmoves.dir/fen.cpp.o CMakeFiles/legalmoves.dir/board.cpp.o CMakeFiles/legalmoves.dir/move.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib liblegalmoves.a
